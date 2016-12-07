@@ -1,0 +1,2 @@
+# Json-based-online-booking-API
+An Android Application using JSON based online API to manage appointments in a Health Care Center. Here an user can register himself/herself by an unique email ID,username,password and other necessary details. After that he/she can login with that unique username. Here one can choose Department, available doctors for that department, date and time slot of appointment as per choices. 
